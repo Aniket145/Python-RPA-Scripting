@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 
 website = "https://web.whatsapp.com/"
-phone = "+919692612030"
+phone = "+91XXXXXXXXXX"
 message = "Test"
 path = 'chromedriver_win32/chromedriver.exe'
 options = Options()
